@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    height: 90vh;
+    height:auto;
     width: 25%;
     border: solid black 1px;
     border-radius: 20px;
